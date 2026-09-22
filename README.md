@@ -10,7 +10,7 @@ ApexTech Direct is a fast-growing e-commerce retailer selling consumer electroni
 However, because transaction systems were recently merged, the sales ledger contains missing values, data input errors, inconsistent text formatting, duplicate entries and missing unit prices.<br>
 
 cleaned data can be found [here](https://github.com/SalamiEritosin/Data-Cleaning-/blob/main/file/data%20cleaning.xlsx) <br>
-raw data file can be found [here]() <br>
+raw data file can be found [here](https://github.com/SalamiEritosin/Data-Cleaning-/tree/main/file/raw) <br>
 
 **Data Cleaning & Analysis**  
 
