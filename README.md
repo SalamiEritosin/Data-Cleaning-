@@ -7,7 +7,10 @@ On this project, I did some data cleaning on an e-commerce raw transactional log
 **ApexTech Direct**
 
 ApexTech Direct is a fast-growing e-commerce retailer selling consumer electronics and home office furniture. The business operations team extracted raw transactional logs for Q1 2024 to evaluate sales performance across customer segments, product lines and global fulfilment regions.
-However, because transaction systems were recently merged, the sales ledger contains missing values, data input errors, inconsistent text formatting, duplicate entries and missing unit prices.
+However, because transaction systems were recently merged, the sales ledger contains missing values, data input errors, inconsistent text formatting, duplicate entries and missing unit prices.<br>
+
+cleaned data can be found here
+raw data file can be found here
 
 **Data Cleaning & Analysis**  
 
@@ -62,7 +65,7 @@ Created a calculated column Total_Sales = Quantity_Ordered * Unit_Price and buil
 2.	Which Category had the highest total unit volume sold?<br>
 3.	What percentage of total transactions resulted from unmapped product IDs?<br>
 
-visuals ![Alt here](Data-Cleaning-/file/data cleaning - Excel 22_09_2026 06_11_07.png at main · SalamiEritosin/Data-Cleaning-)
+visuals ![Alt here](https://github.com/SalamiEritosin/Data-Cleaning-/blob/main/file/data%20cleaning%20-%20Excel%2022_09_2026%2006_11_07.png)
 
 **1. Net Revenue by Region**
 •	North America: $62,815.94<br>
