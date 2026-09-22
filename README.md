@@ -9,8 +9,8 @@ On this project, I did some data cleaning on an e-commerce raw transactional log
 ApexTech Direct is a fast-growing e-commerce retailer selling consumer electronics and home office furniture. The business operations team extracted raw transactional logs for Q1 2024 to evaluate sales performance across customer segments, product lines and global fulfilment regions.
 However, because transaction systems were recently merged, the sales ledger contains missing values, data input errors, inconsistent text formatting, duplicate entries and missing unit prices.<br>
 
-cleaned data can be found here
-raw data file can be found here
+cleaned data can be found [here](https://github.com/SalamiEritosin/Data-Cleaning-/blob/main/file/data%20cleaning.xlsx) <br>
+raw data file can be found [here]() <br>
 
 **Data Cleaning & Analysis**  
 
