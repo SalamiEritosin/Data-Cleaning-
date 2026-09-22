@@ -62,7 +62,7 @@ Created a calculated column Total_Sales = Quantity_Ordered * Unit_Price and buil
 2.	Which Category had the highest total unit volume sold?<br>
 3.	What percentage of total transactions resulted from unmapped product IDs?<br>
 
-visuals here
+visuals ![Alt here](Data-Cleaning-/file/data cleaning - Excel 22_09_2026 06_11_07.png at main · SalamiEritosin/Data-Cleaning-)
 
 **1. Net Revenue by Region**
 •	North America: $62,815.94<br>
